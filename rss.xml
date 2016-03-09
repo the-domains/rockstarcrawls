@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Rockstarcrawls]]></title>
         <description><![CDATA[Rockstarcrawls]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rockstarcrawls/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 06:59:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 07:05:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rockstarcrawls/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tonight is going to be a great night!]]></title>
-            <description><![CDATA[<h1>Tonight is going to be a great night!</h1>]]></description>
-            <link>undefined6da44210-f758-4b9c-9bd6-b64c0b4874a0/index.html</link>
+            <description><![CDATA[<article><h1>Tonight is going to be a great night!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be1042520e79f9f5242e2169822820ac56d572f5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rockstarcrawls/6da44210-f758-4b9c-9bd6-b64c0b4874a0/index.html</link>
             <guid isPermaLink="false">6da44210-f758-4b9c-9bd6-b64c0b4874a0</guid>
-            <pubDate>Wed, 09 Mar 2016 06:59:21 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 07:05:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
