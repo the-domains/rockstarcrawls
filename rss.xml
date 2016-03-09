@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rockstarcrawls]]></title>
+        <description><![CDATA[Rockstarcrawls]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 06:59:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tonight is going to be a great night!]]></title>
+            <description><![CDATA[<h1>Tonight is going to be a great night!</h1>]]></description>
+            <link>undefined6da44210-f758-4b9c-9bd6-b64c0b4874a0/index.html</link>
+            <guid isPermaLink="false">6da44210-f758-4b9c-9bd6-b64c0b4874a0</guid>
+            <pubDate>Wed, 09 Mar 2016 06:59:21 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
